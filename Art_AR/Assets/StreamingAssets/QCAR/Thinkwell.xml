@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="thinkstone" size="512.000000 358.000000" />
+    <ImageTarget name="chst" size="512.000000 407.324432" />
+    <ImageTarget name="jzst" size="448.000000 358.000000" />
+    <ImageTarget name="fbst" size="512.000000 407.324432" />
+  </Tracking>
+</QCARConfig>
